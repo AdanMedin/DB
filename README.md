@@ -1,2 +1,2 @@
-# FurnStoreDB
+# DB
 Store db
